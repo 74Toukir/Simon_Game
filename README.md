@@ -20,6 +20,3 @@ A web-based memory game where players must repeat a sequence of colors. Each rou
 3. Repeat the sequence by clicking on the colored buttons or using keyboard inputs.
 4. The game continues as the sequence grows longer each round.
 5. A mistake ends the game.
-
-## Description
-A web-based memory game where players must repeat a sequence of colors. Each round, the sequence gets longer, challenging the player's memory. Built using HTML, CSS, and JavaScript. Includes animations and keyboard controls for an interactive user experience.
